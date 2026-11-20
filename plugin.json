@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "summarizevideo",
+  "version": "1.0.0",
+  "description": "Turn public technical videos into notes with timestamps and transcript excerpts from SummarizeVideo.ai.",
+  "author": {
+    "name": "SummarizeVideo.ai",
+    "url": "https://summarizevideo.ai"
+  },
+  "keywords": ["summarizevideo", "video transcript", "timestamped video notes"],
+  "license": "MIT"
+}

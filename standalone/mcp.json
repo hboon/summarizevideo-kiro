@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "summarizevideo": {
+      "url": "https://mcp.summarizevideo.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${SUMMARIZEVIDEO_TOKEN}"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
